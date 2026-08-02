@@ -76,9 +76,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhyasakhi7&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyasakhi7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="30%" />
-
 <img src="https://streak-stats.demolab.com/?user=Abhyasakhi7&theme=tokyonight&hide_border=true" width="60%" />
 
 </div>
