@@ -28,8 +28,6 @@
 
 ## 🧑‍💻 Tentang Saya
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/GITHUB_STATS.png" alt="coding gif" style="visibility:hidden;" />
-
 ```yaml
 🎥 Sedang mengerjakan   : Proyek web yang fokus pada performa, fungsionalitas, & UX yang mulus
 🧑‍🤝‍🧑 Terbuka untuk kolaborasi : Proyek web development & UI/UX design yang menantang
@@ -38,8 +36,6 @@
 💬 Tanya saya soal       : HTML, CSS, JavaScript, UI/UX Design, Web Architecture
 ⚡ Fun fact              : 2 tahun berkecimpung di web dev & UI/UX — suka bikin interface yang cantik sekaligus fungsional!
 ```
-
-<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
