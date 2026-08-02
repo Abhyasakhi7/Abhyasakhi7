@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abhyasakhi7&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=Abhyasakhi7&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ## 🏆 GitHub Trophies
