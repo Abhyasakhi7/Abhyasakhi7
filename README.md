@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎥 I’m currently working on<br>Developing web projects that focus on performance, functionality, and excellent user experience.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Challenging and impactful web development and UI/UX design projects.<br><br>🤝 I’m looking for help with<br>Exploring the latest front-end technologies and integrating complex systems.<br><br>🌱 I’m currently learning<br>Advanced JavaScript and diving deeper into modern frameworks like React and Next.js.<br><br>💬 Ask me about<br>HTML, CSS, JavaScript, UI/UX Design, Web Architecture, and tips on crafting intuitive and visually appealing websites.<br><br>⚡ Fun fact<br>I've been in the web development and UI/UX design field for 2 years, and I love creating interfaces that are not only beautiful but also functional!<br>
 
 
