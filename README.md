@@ -10,6 +10,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://my-github-readme-stats-murex-two.vercel.app/api?username=Abhyasakhi7&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://my-github-readme-stats-murex-two.vercel.app/api/top-langs/?username=Abhyasakhi7&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Abhyasakhi7&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
