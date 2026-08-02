@@ -26,20 +26,20 @@
 
 <br/>
 
-## 🧑‍💻 Tentang Saya
+## 🧑‍💻 About Me
 
 ```yaml
-🎥 Sedang mengerjakan   : Proyek web yang fokus pada performa, fungsionalitas, & UX yang mulus
-🧑‍🤝‍🧑 Terbuka untuk kolaborasi : Proyek web development & UI/UX design yang menantang
-🤝 Butuh bantuan soal   : Eksplorasi front-end terbaru & integrasi sistem yang kompleks
-🌱 Sedang belajar        : JavaScript tingkat lanjut, React, dan Next.js
-💬 Tanya saya soal       : HTML, CSS, JavaScript, UI/UX Design, Web Architecture
-⚡ Fun fact              : 2 tahun berkecimpung di web dev & UI/UX — suka bikin interface yang cantik sekaligus fungsional!
+🎥 Currently working on : Web projects focused on performance, functionality & smooth UX
+🧑‍🤝‍🧑 Open to collaborate on : Challenging web development & UI/UX design projects
+🤝 Looking for help with : Exploring the latest front-end tech & complex system integration
+🌱 Currently learning    : Advanced JavaScript, React, and Next.js
+💬 Ask me about          : HTML, CSS, JavaScript, UI/UX Design, Web Architecture
+⚡ Fun fact               : 2 years in web dev & UI/UX — I love building interfaces that are both beautiful and functional!
 ```
 
 ## 🛠️ Tech Stack
 
-**Bahasa & Platform**
+**Languages & Platforms**
 
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -60,7 +60,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
-**Gaming & Lainnya**
+**Gaming & Others**
 
 ![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)
@@ -76,8 +76,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhyasakhi7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyasakhi7&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhyasakhi7&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyasakhi7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="30%" />
 
 <img src="https://streak-stats.demolab.com/?user=Abhyasakhi7&theme=tokyonight&hide_border=true" width="60%" />
 
@@ -113,8 +113,8 @@
 
 ### 💬 Let's Connect!
 
-Saya selalu terbuka untuk diskusi seputar web development, UI/UX, atau sekadar bertukar ide kreatif.
-Jangan ragu untuk menghubungi saya lewat kanal di atas ⬆️
+I'm always open to discussing web development, UI/UX, or just exchanging creative ideas.
+Feel free to reach out through the channels above ⬆️
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
 
