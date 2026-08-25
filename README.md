@@ -29,12 +29,9 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-🎥 Currently working on : Web projects focused on performance, functionality & smooth UX
-🧑‍🤝‍🧑 Open to collaborate on : Challenging web development & UI/UX design projects
-🤝 Looking for help with : Exploring the latest front-end tech & complex system integration
-🌱 Currently learning    : Advanced JavaScript, React, and Next.js
-💬 Ask me about          : HTML, CSS, JavaScript, UI/UX Design, Web Architecture
-⚡ Fun fact               : 2 years in web dev & UI/UX — I love building interfaces that are both beautiful and functional!
+🎓 I’m a college student with a strong interest in programming and technology.
+💻 I enjoy building various projects, especially with Python, while exploring software, automation, and new technologies.
+🚀 For me, every project is an opportunity to learn, grow, and create something better.
 ```
 
 ## 🛠️ Tech Stack
